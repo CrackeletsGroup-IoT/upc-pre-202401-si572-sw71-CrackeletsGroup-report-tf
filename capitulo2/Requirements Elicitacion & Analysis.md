@@ -1,23 +1,21 @@
 # CAPITULO II: REQUIREMENTS ELICITATION & ANALYSIS
 
-## 2. Competidores
+## 2.1. Competidores
 
 Se han identificado a Joinnus, Teleticket y Atrápalo como los tres competidores principales de nuestro proyecto a fin de que se logre aprender más a fondo cómo funciona el mercado, las ventajas o desventajas que mantenemos frente a ellos. Todo esto nos será de gran ayuda para idear estrategias y tácticas dentro del rubro elegido.
 
-### Joinnus
+#### Joinnus
 Es una plataforma que permite a las empresas crear, promocionar y gestionar sus eventos, además de permitir la venta de entradas de cada evento alojado en la plataforma.
 
-### Teleticket
+#### Teleticket
 Aplicación que permite comprar entradas a diversos eventos como conciertos, eventos deportivos, etc. Además, ofrece a los organizadores la posibilidad de vender sus eventos en la plataforma.
 
-### Atrápalo
+#### Atrápalo
 Es una aplicación que permite a los usuarios comprar entradas a diversos eventos, así como también poder comprar vuelos, reservar hoteles, cruceros, etc.
 
-## Análisis Competitivo
+### 2.1.1. Análisis Competitivo
 
-### Competitive Analysis Landscape
-
-1. <a name="_toc168779402"></a>Análisis competitivo
+#### Competitive Analysis Landscape
 
 <table><tr><th colspan="6" valign="top">Competitive Analysis Landscape</th></tr>
 <tr><td colspan="2" rowspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td><td colspan="4" valign="top">Se llevará a cabo para aprender más a fondo cómo funciona el mercado, las ventajas o desventajas que mantenemos frente a nuestros competifdores.</td></tr>
@@ -54,7 +52,7 @@ Es una aplicación que permite a los usuarios comprar entradas a diversos evento
 
 
 
-### Estrategias y tácticas frente a los competidores
+### 2.1.2. Estrategias y tácticas frente a los competidores
 
 - Enfocarnos en una experiencia de usuarios excepcional para de esta manera diferenciarnos de la competencia asegurándonos de que nuestra aplicación sea fácil de usar, tenga una interfaz atractiva y ofrecer características útiles que la competencia no tenga.
 - Aprovechar la función de encontrar eventos cerca de las personas para poder llevarle al usuario una experiencia personalizada.
@@ -63,11 +61,11 @@ Es una aplicación que permite a los usuarios comprar entradas a diversos evento
 - Escuchar a nuestros usuarios para ofrecer un servicio al cliente excepcional para destacar sobre la competencia y proporcionar una experiencia positiva, de esta maner
 
 
-# 2. Entrevistas
+## 2.2. Entrevistas
 
-## Diseño de entrevistas
+### 2.2.1. Diseño de entrevistas
 
-### Información Personal:
+#### Información Personal:
 
 - ¿Cuál es tu nombre?
 - ¿Cuál es tu edad?
@@ -75,7 +73,7 @@ Es una aplicación que permite a los usuarios comprar entradas a diversos evento
 - ¿Cuál es tu ocupación profesional? ¿Te encuentras laborando en la actualidad?
 - Describe algunas cualidades, fortalezas y/o debilidades que consideras representativas de tu personalidad
 
-### Para el segmento objetivo de “Attendee”:
+#### Para el segmento objetivo de “Attendee”:
 - ¿Te parece interesante la idea de una aplicación que conecte de forma más fácil a los usuarios que buscan eventos sociales con el muestreo de lugares donde se pueden realizar eventos sociales cerca de tal persona?
 - ¿Crees que hay una necesidad real en el mercado de una aplicación como esta?
 - ¿Te gustaría tener la opción de suscribirte a un servicio de eventos en línea?
@@ -83,7 +81,7 @@ Es una aplicación que permite a los usuarios comprar entradas a diversos evento
 - ¿Cómo crees que una aplicación como esta pueda mejorar la experiencia del usuario al buscar eventos sociales?
 - ¿Cuál es tu opinión general sobre la idea de la aplicación? ¿La usarías personalmente?
 
-### Para el segmento objetivo de “Organizer”:
+#### Para el segmento objetivo de “Organizer”:
 - ¿Cómo publica actualmente sus eventos?
 - ¿Cuáles son los desafíos que enfrenta al promocionar sus eventos y llegar a nuevos clientes?
 - ¿Qué tipo de información le gustaría incluir en la plataforma para publicar sus eventos?
@@ -94,9 +92,9 @@ Es una aplicación que permite a los usuarios comprar entradas a diversos evento
 - ¿Crees que el modelo de suscripción es justo para los realizadores de eventos para que puedan realizar sus publicaciones y ser promocionados?
 - ¿Cuál es tu opinión general sobre la idea de la aplicación? ¿La usarías personalmente?
 
-## Registro de entrevistas
+### 2.2.2. Registro de entrevistas
 
-### Segmento objetivo de Attendee:
+#### Segmento objetivo de Attendee:
 
 | **Nombres y apellidos :**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      Delia Milena Vásquez del Águila                   |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -125,23 +123,23 @@ Es una aplicación que permite a los usuarios comprar entradas a diversos evento
 | **URL:** [**https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c242_upc_edu_pe/EdShTzeOBj1HvfjxqSgW8DABcKdh_1qgDyq3gxQGjgqIJA?e=uR6JB9**](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c242_upc_edu_pe/EdShTzeOBj1HvfjxqSgW8DABcKdh_1qgDyq3gxQGjgqIJA?e=uR6JB9) <br/> **Timming:** 13:26 min **<br/>Duración: 3**:59 min                                                                                                                                                                                                                                                                                                                                                  |
 | <p>**Resumen:** </p><p>La entrevista fue realizada a un organizador de fiestas y estudiante universitario de 20 años con experiencia, debido a que es un negocio familiar, su estado civil es soltero y reside en el distrito de Puente Piedra, Lima. Como rasgos de personalidad resalta que es una persona confiada, trabajadora y motivadora. </p><p>En la entrevista señala que le parece una buena idea el proyecto presentado, además de que nos muestra los problemas que padece y que cree que nuestra aplicación podría solucionar, como es el tema de la verificación de las entradas donde muestra que es muy recurrente el tema de las estafas y los revendedores. Además de que le gustaría tener una aplicación donde pueda escribir de manera detallada la información de sus eventos, también nos cuenta que si estaría interesado aplicar en nuestro sistema de suscripción, finalmente nos comenta que nuestra aplicación le parece una buena oportunidad para tener una mayor repercusión.</p> |       |
 
-## Análisis de entrevistas
+### 2.2.3. Análisis de entrevistas
 
-### Segmento objetivo de Attendee:
+#### Segmento objetivo de Attendee:
 Uno de los principales problemas que padecen las personas al buscar un evento cerca de ellos es que les es difícil encontrar uno debido a las pocas recomendaciones por parte de otras aplicaciones. Todos los asistentes entrevistados consideran a la aplicación como una buena oportunidad para mejorar su experiencia en su búsqueda de eventos. En la siguiente gráfica representamos a los usuarios que logran conseguir eventos cerca de su ubicación.
 
 ![Gráfico, Gráfico circular Descripción generada automáticamente](Aspose.Words.4e595549-1dd1-4b2d-a6f5-6090150b7e36.004.png)
 
 **Fuente:** Elaboración propia
 
-### Segmento objetivo de Organizer:
+#### Segmento objetivo de Organizer:
 En el apartado de Organizador se reconoció la incomodidad en los problemas que tienen actualmente al vender las entradas debido a las estafas y revendedores que se aprovechan de los asistentes. Al hablarles de nuestra aplicación, vieron una solución a estos problemas debido a cómo se maneja el registro de las entradas. En el siguiente gráfico representamos a los organizadores que tienen problemas con la venta de entradas.
 
 ![Gráfico, Gráfico circular Descripción generada automáticamente](Aspose.Words.4e595549-1dd1-4b2d-a6f5-6090150b7e36.005.png)
 
 **Fuente:** Elaboración propia
 
-## Necesidades identificadas:
+#### Necesidades identificadas:
 
 - **Necesidad de una herramienta que permita encontrar eventos relacionados al entretenimiento:** 100% de los entrevistados mencionan este punto, lo que indica que hay un interés generalizado por una solución que facilite la búsqueda de eventos de entretenimiento.
 - **Utilidad de separar los eventos por categorías:** 33% de los entrevistados mencionan este punto, lo que sugiere que hay un segmento de usuarios que prefiere la opción de buscar eventos según categorías.
@@ -154,8 +152,8 @@ En el apartado de Organizador se reconoció la incomodidad en los problemas que 
 
 
 
-# Needfinding
-## User Personas
+## 2.3. Needfinding
+### 2.3.1. User Personas
 
 En el siguiente apartado se elaboran los artefactos de User Personas. Ello se ha elaborado en base al análisis de entrevistas en conjunto con los datos obtenidos en el análisis de la competencia. Algunas de las características tomadas tienen que ver con que el segmento Publico les es difícil poder encontrar eventos cercanos a su ubicación; así como para el segmento Organizador, los cuales tienen problemas con la venta de entradas.
 
@@ -167,7 +165,7 @@ En el siguiente apartado se elaboran los artefactos de User Personas. Ello se ha
 
 ![Interfaz de usuario gráfica, Aplicación Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0fb4eda793.002.png)
 
-## User Task Matrix
+### 2.3.2. User Task Matrix
 
 El siguiente artefacto está elaborado en base a dos usuarios, Attendee y Organizer, en donde se enumera una lista de actividades relacionadas con buscar y promocionar un evento social
 
@@ -188,7 +186,7 @@ El siguiente artefacto está elaborado en base a dos usuarios, Attendee y Organi
 
 
 
-## User Journey Mapping
+### 2.3.3. User Journey Mapping
 
 **Segmento Objetivo-Attendee:**
 
@@ -203,7 +201,7 @@ Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0
 
 
 
-## Empathy Mapping
+### 2.3.4. Empathy Mapping
 
 **Segmento Objetivo-Attendee:![Interfaz de usuario gráfica Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0fb4eda793.005.png)**
 
@@ -215,7 +213,7 @@ Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0
 
 
 
-## As-is Scenario Mapping
+### 2.3.5. As-is Scenario Mapping
 
 **Segmento Objetivo-Attendee:**
 
@@ -238,7 +236,7 @@ Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0
 
 
 
-# Ubiquitous Lenguage
+## 2.4. Ubiquitous Lenguage
 
 Para este punto comentaremos acerca de los términos que hemos está usando a lo largo del desarrollo del informe y la aplicación. Estos términos ayudaran a tener una mejor visión general del informe y la aplicación que realizamos. A continuación, mencionaremos los términos que hemos utilizado hasta la actualidad:
 
