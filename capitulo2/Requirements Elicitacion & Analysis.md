@@ -1,3 +1,20 @@
+# Índice
+- [CAPITULO II: REQUIREMENTS ELICITATION & ANALYSIS](#capitulo-ii-requirements-elicitation-&-analysis)
+    - [Competidores](#competidores)
+        - [Análisis competitivo](#analisis-competitivo)
+        - [Estrategias y tácticas frente a los competidores](#estrategias-y-tacticas-frente-a-los-competidores)
+    - [Entrevistas](#entrevistas)
+        - [Diseño de entrevistas](#diseño-de-entrevistas)
+        - [Registro de entrevistas](#registro-de-entrevistas)
+        - [Análisis de entrevistas](#analisis-de-entrevistas)
+    - [Needfinding](#needfinding)
+        - [User Personas](#user-personas)
+        - [User Task Matrix](#user-task-matrix)
+        - [User Journey Mapping](#user-journey-mapping)
+        - [Empathy Mapping](#empathy-mapping)
+        - [As-is Scenario Mapping](#as-is-scenario-mapping)
+    - [Ubiquitous Language](#ubiquitous-language)
+
 # CAPITULO II: REQUIREMENTS ELICITATION & ANALYSIS
 
 ## 2.1. Competidores
@@ -236,7 +253,7 @@ Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0
 
 
 
-## 2.4. Ubiquitous Lenguage
+## 2.4. Ubiquitous Language
 
 Para este punto comentaremos acerca de los términos que hemos está usando a lo largo del desarrollo del informe y la aplicación. Estos términos ayudaran a tener una mejor visión general del informe y la aplicación que realizamos. A continuación, mencionaremos los términos que hemos utilizado hasta la actualidad:
 
