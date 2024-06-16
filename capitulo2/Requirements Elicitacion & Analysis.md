@@ -1,19 +1,19 @@
 # Índice
-- [CAPITULO II: REQUIREMENTS ELICITATION & ANALYSIS](#capitulo-ii-requirements-elicitation-&-analysis)
-    - [Competidores](#competidores)
-        - [Análisis competitivo](#analisis-competitivo)
-        - [Estrategias y tácticas frente a los competidores](#estrategias-y-tacticas-frente-a-los-competidores)
-    - [Entrevistas](#entrevistas)
-        - [Diseño de entrevistas](#diseño-de-entrevistas)
-        - [Registro de entrevistas](#registro-de-entrevistas)
-        - [Análisis de entrevistas](#analisis-de-entrevistas)
-    - [Needfinding](#needfinding)
-        - [User Personas](#user-personas)
-        - [User Task Matrix](#user-task-matrix)
-        - [User Journey Mapping](#user-journey-mapping)
-        - [Empathy Mapping](#empathy-mapping)
-        - [As-is Scenario Mapping](#as-is-scenario-mapping)
-    - [Ubiquitous Language](#ubiquitous-language)
+- [CAPITULO II: REQUIREMENTS ELICITATION & ANALYSIS](#capitulo-ii-requirements-elicitation--analysis)
+    - [2.1. Competidores](#21-competidores)
+        - [2.1.1. Análisis competitivo](#211-analisis-competitivo)
+        - [2.1.2. Estrategias y tácticas frente a los competidores](#212-estrategias-y-t%C3%A1cticas-frente-a-los-competidores)
+    - [2.2. Entrevistas](#22-entrevistas)
+        - [2.2.1. Diseño de entrevistas](#221-diseño-de-entrevistas)
+        - [2.2.2. Registro de entrevistas](#222-registro-de-entrevistas)
+        - [2.2.3. Análisis de entrevistas](#223-an%C3%A1lisis-de-entrevistas)
+    - [2.3. Needfinding](#23-needfinding)
+        - [2.3.1. User Personas](#231-user-personas)
+        - [2.3.2. User Task Matrix](#232-user-task-matrix)
+        - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
+        - [2.3.4. Empathy Mapping](#234-empathy-mapping)
+        - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
+    - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
 # CAPITULO II: REQUIREMENTS ELICITATION & ANALYSIS
 
@@ -30,7 +30,7 @@ Aplicación que permite comprar entradas a diversos eventos como conciertos, eve
 #### Atrápalo
 Es una aplicación que permite a los usuarios comprar entradas a diversos eventos, así como también poder comprar vuelos, reservar hoteles, cruceros, etc.
 
-### 2.1.1. Análisis Competitivo
+### 2.1.1. Analisis Competitivo
 
 #### Competitive Analysis Landscape
 
