@@ -1,16 +1,16 @@
 # Índice
 
 - [CAPITULO I: INTRODUCCIÓN](#capitulo-i-introducción)
-    - [Startup Profile](#startup-profile)
-        - [Descripción de la Startup](#descripción-de-la-startup)
-        - [Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
-    - [Solution Profile](#solution-profile)
-        - [Antecedentes y Problemática](#antecedentes-y-problemática)
-        - [Lean UX Process](#lean-ux-process)
+    - [1.1. Startup Profile](#11-startup-profile)
+        - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
+        - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
+    - [1.2. Solution Profile](#12-solution-profile)
+        - [1.2.1. Antecedentes y Problemática](#121-antecedentes-y-problemática)
+        - [1.2.2. Lean UX Process](#122-lean-ux-process)
             - [Lean UX Problem Statements](#lean-ux-problem-statements)
             - [Lean UX Assumptions](#lean-ux-assumptions)
             - [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
-    - [Segmentos Objetivo](#segmentos-objetivo)
+    - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
 
 # CAPITULO I: INTRODUCCIÓN
 
