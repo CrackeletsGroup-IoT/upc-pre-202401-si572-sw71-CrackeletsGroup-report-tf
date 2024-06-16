@@ -207,8 +207,7 @@ El siguiente artefacto está elaborado en base a dos usuarios, Attendee y Organi
 
 **Segmento Objetivo-Attendee:**
 
-*![Imagen que contiene Escala de tiempo
-Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0fb4eda793.003.png)*
+*![Imagen que contiene Escala de tiempo Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0fb4eda793.003.png)*
 
 **Segmento Objetivo-Organizer:**
 
@@ -220,7 +219,9 @@ Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0
 
 ### 2.3.4. Empathy Mapping
 
-**Segmento Objetivo-Attendee:![Interfaz de usuario gráfica Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0fb4eda793.005.png)**
+**Segmento Objetivo-Attendee:**
+
+![Interfaz de usuario gráfica Descripción generada automáticamente](Aspose.Words.b91ecd5c-2433-478d-b228-db0fb4eda793.005.png)
 
 **Segmento Objetivo-Organizer:**
 
