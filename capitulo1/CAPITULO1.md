@@ -3,20 +3,20 @@
 - [CAPITULO I: INTRODUCCIÓN](#capitulo-i-introducción)
     - [Startup Profile](#startup-profile)
         - [Descripción de la Startup](#descripción-de-la-startup)
-    - [Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
+        - [Perfiles de integrantes del equipo](#perfiles-de-integrantes-del-equipo)
     - [Solution Profile](#solution-profile)
-    - [Antecedentes y Problemática](#antecedentes-y-problemática)
-    - [Lean UX Process](#lean-ux-process)
-        - [Lean UX Problem Statements](#lean-ux-problem-statements)
-        - [Lean UX Assumptions](#lean-ux-assumptions)
-        - [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+        - [Antecedentes y Problemática](#antecedentes-y-problemática)
+        - [Lean UX Process](#lean-ux-process)
+            - [Lean UX Problem Statements](#lean-ux-problem-statements)
+            - [Lean UX Assumptions](#lean-ux-assumptions)
+            - [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
     - [Segmentos Objetivo](#segmentos-objetivo)
 
 # CAPITULO I: INTRODUCCIÓN
 
-## Startup Profile
+## 1.1. Startup Profile
 
-### Descripción de la Startup
+### 1.1.1. Descripción de la Startup
 
 **“The Big Fun”** surgió para facilitar la búsqueda de eventos sociales. Muchos jóvenes suelen buscar un lugar donde divertirse los fines de semana. Existen algunas discotecas, por ejemplo, que venden entradas por redes sociales como Facebook o Instagram, y el proceso de compra de las entradas suele ser tedioso a la hora de esperar a que alguna persona conteste los mensajes y realice la atención. Otra problemática nace cuando llega el fin de semana y tu grupo de amigos no sabe a dónde salir; las personas podrán buscar los eventos por las redes, pero es otro procedimiento que puede llevar mucho tiempo.
 
@@ -26,7 +26,7 @@ Para resolver estas problemáticas, crearemos una aplicación en donde el Attend
 
 **Visión:** Ser una aplicación y empresa con reconocimiento nacional e internacional en la publicidad de eventos y en el mercado de las transacciones de entradas.
 
-# Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo
 
 <table>
   <tr>
@@ -76,11 +76,11 @@ Para resolver estas problemáticas, crearemos una aplicación en donde el Attend
   </tr>
 </table>
 
-## Solution Profile
+## 1.2. Solution Profile
 
 **“The Big Fun”** es una aplicación diseñada para facilitar la búsqueda y compra de entradas para eventos sociales en Perú. Nuestra aplicación permite a los usuarios visualizar la información necesaria como la temática, la dirección, la cantidad de personas que van a asistir y los precios. Además, los Organizer podrán vender sus entradas y generar códigos QR mediante la aplicación, lo que simplificará el proceso de compra y venta de entradas. Además de esto, los asistentes recibirán una pulsera la cual servirá como identificador de las personas además de poder darnos su ubicación a través de ella.
 
-## Antecedentes y Problemática
+### 1.2.1. Antecedentes y Problemática
 
 - **What (¿Qué?):** ¿Qué problema enfrenta la gestión de eventos? La gestión de eventos enfrenta dificultades para proporcionar una experiencia de usuario intuitiva y eficiente.
 - **Why (¿Por qué?):** ¿Por qué es importante resolver este problema? Es importante resolver este problema porque una experiencia de usuario deficiente puede llevar a la insatisfacción de los usuarios, pérdida de clientes y una mala reputación para el organizador.
@@ -90,9 +90,9 @@ Para resolver estas problemáticas, crearemos una aplicación en donde el Attend
 - **How (¿Cómo?):** ¿Cómo se está abordando actualmente este problema? Actualmente, el problema se está abordando mediante la optimización de las funciones de gestión de eventos y la recopilación de comentarios de los usuarios.
 - **How Much (¿Cuánto?):** ¿Cuánto impacta este problema en la satisfacción del usuario? Este problema tiene un impacto significativo en la satisfacción del asistente, lo que potencialmente puede resultar en la pérdida de clientes y oportunidades comerciales.
 
-## Lean UX Process
+### 1.2.2. Lean UX Process
 
-### Lean UX Problem Statements
+#### Lean UX Problem Statements
 
 En la organización de eventos, ya sea conferencias, conciertos, fiestas o cualquier otro tipo de evento, surge la necesidad de una gestión eficiente y efectiva. Los organizadores se enfrentan a numerosos desafíos desde la planificación y coordinación de tareas.
 
@@ -100,7 +100,7 @@ La gestión manual de eventos conlleva una serie de problemas como la falta de s
 
 **¿Cómo podemos simplificar y optimizar el proceso de gestión de eventos para garantizar una experiencia exitosa tanto para los organizadores como para los asistentes?**
 
-### Lean UX Assumptions
+#### Lean UX Assumptions
 
 1. Los usuarios muestran una clara preferencia por una experiencia de compra de entradas que sea rápida y eficiente, evitando la incomodidad de esperas y filas en los puntos de venta físicos.
 2. Los usuarios expresan un deseo por la comodidad de adquirir sus boletos en línea desde la comodidad de sus dispositivos móviles o computadoras.
@@ -108,7 +108,7 @@ La gestión manual de eventos conlleva una serie de problemas como la falta de s
 4. Los organizadores de eventos sociales desean una plataforma sencilla y eficaz que les facilite la venta de entradas, la promoción y gestión de sus eventos.
 5. Los usuarios tienen una expectativa de seguridad y confiabilidad al realizar transacciones de compra de entradas dentro de la aplicación.
 
-### Lean UX Hypothesis Statements
+#### Lean UX Hypothesis Statements
 
 - **Hipótesis 1:** Creemos que si creamos una plataforma intuitiva y fácil de usar para buscar y comprar entradas para eventos, aumentaremos la satisfacción de los usuarios finales y su frecuencia de asistencia a eventos. Sabremos que tuvimos éxito cuando observemos un aumento del 20% en la frecuencia de asistencia a eventos por usuario.
 
@@ -116,7 +116,7 @@ La gestión manual de eventos conlleva una serie de problemas como la falta de s
 
 - **Hipótesis 3:** Creemos que si implementamos un sistema de gestión de entradas y escaneo de códigos QR en la puerta del evento, mejoraremos la experiencia de los asistentes al agilizar el proceso de entrada y brindar mayor seguridad y control. Sabremos que tuvimos éxito cuando la velocidad de entrada al evento aumente en un 50% y haya una reducción del 30% en los problemas relacionados con la entrada.
 
-## Lean UX Canvas
+#### Lean UX Canvas
 
 [[Enlace 1]](#_ANEXOS)![Imagen que contiene Tabla
 Descripción generada
@@ -126,7 +126,7 @@ automáticamente](./image7.png)![Calendario Descripción generada
 automáticamente](./image8.png)
 
 
-## Segmentos Objetivo
+## 1.3. Segmentos Objetivo
 
 - **“Attendee”**
     - Jóvenes de 18 a 25 años que buscan eventos sociales en su ciudad y desean una experiencia de compra de entradas en línea rápida y segura.
