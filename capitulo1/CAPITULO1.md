@@ -10,6 +10,7 @@
             - [Lean UX Problem Statements](#lean-ux-problem-statements)
             - [Lean UX Assumptions](#lean-ux-assumptions)
             - [Lean UX Hypothesis Statements](#lean-ux-hypothesis-statements)
+            - [Lean UX Canvas](#lean-ux-canvas)
     - [1.3. Segmentos Objetivo](#13-segmentos-objetivo)
 
 # CAPITULO I: INTRODUCCIÓN
