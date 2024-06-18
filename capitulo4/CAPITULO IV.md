@@ -224,7 +224,9 @@ A continuación, se muestra los diagramas C4 donde se visualiza la arquitectura 
 Nuestra Startup cuenta con un sistema de software TheBigFun (aplicación web y móvil), adicionalmente se cuenta con un sistema que maneja dispositivos IoT, el que a su vez se relaciona con un sistema CRM para poder almacenar y gestionar información de nuestros clientes
 
 ![Diagrama
-Descripción generada automáticamente](Aspose.Words.0d655031-c374-4bfe-9bc3-7266c547a909.028.jpeg)Link: <https://lucid.app/lucidchart/8ef0e66c-e927-443a-9e41-6ab129aa23d5/edit?viewport_loc=-1810%2C-1218%2C1128%2C721%2C0_0&invitationId=inv_6030b295-fd49-482a-8d80-5c33a7535d54> 
+Descripción generada automáticamente](Aspose.Words.0d655031-c374-4bfe-9bc3-7266c547a909.028.jpeg)
+
+Link: <https://lucid.app/lucidchart/8ef0e66c-e927-443a-9e41-6ab129aa23d5/edit?viewport_loc=-1810%2C-1218%2C1128%2C721%2C0_0&invitationId=inv_6030b295-fd49-482a-8d80-5c33a7535d54> 
 
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams      
@@ -235,7 +237,7 @@ En la siguiente imagen se aprecia tres usuarios que interactúan con el sistema,
 
 
 ![Diagrama
-Descripción generada automáticamente](Aspose.Words.0d655031-c374-4bfe-9bc3-7266c547a909.029.png)}
+Descripción generada automáticamente](Aspose.Words.0d655031-c374-4bfe-9bc3-7266c547a909.029.png)
 
 
 #### 4.1.3.3 Software Architecture Container Level Diagrams     
