@@ -1,6 +1,17 @@
 # Índice
-- [CAPITULO IV: SOLUTION SOFTWARE DESIGN]()
-  - []
+  - [CAPITULO IV: SOLUTION SOFTWARE DESIGN](#capitulo-iv-solution-software-design)
+    - [4.1. Strategic-Level Domain-Driven Design](#41-strategic-level-domain-driven-design)
+      - [4.1.1. Event Storming](#411-event-storming)
+          - [4.1.1.1. Candidate Context Discovey](#4111-candidate-context-discovery)
+          - [4.1.1.2. Domain Message Flows Modeling](#4112-domain-message-flows-modeling)
+          - [4.1.1.3. Bounded Context Canvases](#4113-bounded-context-canvases)
+      - [4.1.2. Context Mapping](#412-context-mapping)
+      - [4.1.3. Software Architecture](#413-software-architecture)
+        - [4.1.3.1. Software Architecture System Landscape Diagram](#4131-software-architecture-system-landscape-diagram)
+        - [4.1.3.2. Software Architecture Context Level Diagrams](#4132-software-architecture-context-level-diagrams)
+        - [4.1.3.3 Software Architecture Container Level Diagrams](#4133-software-architecture-container-level-diagrams)
+        - [4.1.3.4. Software Architecture Deployment Diagrams](#4134-software-architecture-deployment-diagrams)
+    - [4.2. Tactical-Level Domain-Driven Design](#42-tactical-level-domain-driven-design)
 
 # CAPITULO IV: SOLUTION SOFTWARE DESIGN
 
@@ -227,7 +238,9 @@ A continuación, se muestra los diagramas C4 donde se visualiza la arquitectura 
 Nuestra Startup cuenta con un sistema de software TheBigFun (aplicación web y móvil), adicionalmente se cuenta con un sistema que maneja dispositivos IoT, el que a su vez se relaciona con un sistema CRM para poder almacenar y gestionar información de nuestros clientes
 
 ![Diagrama
-Descripción generada automáticamente](Aspose.Words.0d655031-c374-4bfe-9bc3-7266c547a909.028.jpeg)Link: <https://lucid.app/lucidchart/8ef0e66c-e927-443a-9e41-6ab129aa23d5/edit?viewport_loc=-1810%2C-1218%2C1128%2C721%2C0_0&invitationId=inv_6030b295-fd49-482a-8d80-5c33a7535d54> 
+Descripción generada automáticamente](Aspose.Words.0d655031-c374-4bfe-9bc3-7266c547a909.028.jpeg)
+
+Link: <https://lucid.app/lucidchart/8ef0e66c-e927-443a-9e41-6ab129aa23d5/edit?viewport_loc=-1810%2C-1218%2C1128%2C721%2C0_0&invitationId=inv_6030b295-fd49-482a-8d80-5c33a7535d54> 
 
 
 #### 4.1.3.2. Software Architecture Context Level Diagrams      
@@ -261,7 +274,7 @@ Descripción generada automáticamente](Aspose.Words.0d655031-c374-4bfe-9bc3-726
 
 ## 4.2. Tactical-Level Domain-Driven Design
 
-### [4.2.1. Bounded Contexts Design](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo4/capitulo4/booking/Bounded%20Context%20Booking.md)
-### 4.2.2. Aggregates Design
-### 4.2.3. Domain Events Design
-### 4.2.4. Value Objects Design
+### [4.2.1. Bounded Context: Booking](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo4/capitulo4/booking/Bounded%20Context%20Booking.md)
+### [4.2.2. Bounded Context: Profile](#)
+### [4.2.3. Bounded Context: Payment](#)
+### [4.2.4. Bounded Context: Security](#)
