@@ -1,3 +1,15 @@
+### Índice
+- [4.2.1. Bounded Context: Booking](#421-bounded-context--booking)
+  - [4.2.1.1. Domain Layer](#4211-domain-layer)
+  - [4.2.1.2. Interface Layer](#4212-interface-layer)
+  - [4.2.1.3. Application Layer](#4213-application-layer)
+  - [4.2.1.4. Infrastructure Layer](#4214-infrastructure-layer)
+  - [4.2.1.5. Bounded Context Software Architecture Component Level Diagrams](#4215-bounded-context-software-architecture-component-level-diagrams)
+  - [4.2.1.6. Bounded Context Software Architecture Code Level Diagrams](#4216-bounded-context-software-architecture-code-level-diagrams)
+      - [4.2.1.6.1. Bounded Context Domain Layer Class Diagrams](#42161-bounded-context-domain-layer-class-diagrams)
+      - [4.2.1.6.2. Bounded Context Database Design Diagram](#42162-bounded-context-database-design-diagram)
+
+
 ### 4.2.1. Bounded Context:  Booking    
 
 En el contexto del bounded context de Booking para eventos, se centra en la gestión y coordinación de reservas para eventos específicos, como conferencias, conciertos, festivales u otras actividades programadas. Este contexto delimitado aborda las necesidades particulares relacionadas con la planificación, reserva y gestión de asistentes para eventos.            
