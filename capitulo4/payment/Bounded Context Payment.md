@@ -1,6 +1,6 @@
 ### Índice
  - [4.2. Tactical-Level Domain-Driven Design](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo4/capitulo4/CAPITULO%20IV.md#42-tactical-level-domain-driven-design)
-    - [4.2.3. Bounded Context: Payment](423-bounded-context--payment)
+    - [4.2.3. Bounded Context: Payment](#423-bounded-context--payment)
         - [4.2.3.1. Domain Layer](#4231-domain-layer)
         - [4.2.3.2. Interface Layer](#4232-interface-layer)
         - [4.2.3.3. Application Layer](#4233-application-layer)
@@ -77,7 +77,7 @@ En la capa de dominio se encuentran nuestros modelos y entidades.
 |paymentRepository| PaymentRepository | Private         | Repositorio de Payment |
 |    validator    | Validator         | Private         | Validador de atributos |
 
-*Método*   
+*Métodos*   
 
 | **Nombre** | **Tipo de retorno** | **Visibilidad** | **Descripción**                              |
 |:----------:|:--------------------|:----------------|:---------------------------------------------|
