@@ -10,7 +10,7 @@
           - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
           - [4.2.3.6.2. Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
 
-### 4.2.3. Bounded Context :  Payment 
+### 4.2.3. Bounded Context:  Payment 
 
 En este bounded context se gestiona los pagos que realizan los usuarios dentro de la aplicación.
 
