@@ -1,13 +1,14 @@
 ### Índice
-- [4.2.3. Bounded Context: Payment](#423-bounded-context--payment)
-    - [4.2.3.1. Domain Layer](#4231-domain-layer)
-    - [4.2.3.2. Interface Layer](#4232-interface-layer)
-    - [4.2.3.3. Application Layer](#4233-application-layer)
-    - [4.2.3.4. Infrastructure Layer](#4234-infrastructure-layer)
-    - [4.2.3.5. Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
-    - [4.2.3.6. Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
-      - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
-      - [4.2.3.6.2. Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
+ - [4.2. Tactical-Level Domain-Driven Design](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo4/capitulo4/CAPITULO%20IV.md#42-tactical-level-domain-driven-design)
+    - [4.2.3. Bounded Context: Payment](423-bounded-context--payment)
+        - [4.2.3.1. Domain Layer](#4231-domain-layer)
+        - [4.2.3.2. Interface Layer](#4232-interface-layer)
+        - [4.2.3.3. Application Layer](#4233-application-layer)
+        - [4.2.3.4. Infrastructure Layer](#4234-infrastructure-layer)
+        - [4.2.3.5. Bounded Context Software Architecture Component Level Diagrams](#4235-bounded-context-software-architecture-component-level-diagrams)
+        - [4.2.3.6. Bounded Context Software Architecture Code Level Diagrams](#4236-bounded-context-software-architecture-code-level-diagrams)
+          - [4.2.3.6.1. Bounded Context Domain Layer Class Diagrams](#42361-bounded-context-domain-layer-class-diagrams)
+          - [4.2.3.6.2. Bounded Context Database Design Diagram](#42362-bounded-context-database-design-diagram)
 
 ### 4.2.3. Bounded Context :  Payment 
 
