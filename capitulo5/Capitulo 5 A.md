@@ -206,3 +206,121 @@ Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3
 ![Interfaz de usuario gráfica
 Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.010.png)
 
+
+## Applications UX/UI Design 
+
+#### 5.4.1. Applications Wireframes
+**Wireframes Movil:**
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.011.png)
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.012.png)
+
+![Interfaz de usuario gráfica
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.013.png)
+
+![Interfaz de usuario gráfica
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.014.png)
+
+![Interfaz de usuario gráfica
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.015.png)
+
+
+**Wireframes Web:**
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.016.png)
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.017.png)
+
+![Imagen que contiene Interfaz de usuario gráfica
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.018.png)
+
+### 5.4.2. Applications Wireflow Diagrams
+
+**Aplicación web:**
+
+![Interfaz de usuario gráfica, Sitio web
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.019.png)
+
+![Interfaz de usuario gráfica, Aplicación, Teams
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.020.png)
+
+![Diagrama Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.021.png)
+
+
+**Aplicación móvil:**
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.022.png)
+
+
+### 5.4.3. Applications Mock-ups
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.023.png)
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.024.png)
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.025.png)
+
+![Interfaz de usuario gráfica
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.026.png)
+
+
+### 5.4.4. Applications User Flow Diagrams
+
+**User Flow Organizer:**
+
+![A diagram of a diagram
+Description automatically generated](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.027.png)
+
+
+**User flow Attendee:**
+
+![A screenshot of a diagram](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.028.png)
+
+
+## 5.5. Applications Prototyping
+
+Esta sección incluye Prototipos de UI para Desktop y Mobile Web Browser con simulación de interacción y navegación, acorde con la propuesta de paths de User Flow Diagrams. 
+
+**Web Application: Flujo para Atendee**
+
+![Captura de pantalla de computadora
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.029.png)
+
+En este video se explica el prototipo del flujo que tiene un usuario Atendee en la aplicación web, donde empieza registrándose y luego procede con la compra de su entrada a un evento.
+
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c231_upc_edu_pe/EczUqRkszJBBtewxeNOfhxgB5FjezJUAz7WxhDtxoSPJrw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8m0KDj> 
+
+
+**Web Application: Flujo para Organizer**
+
+En este video se explica el flujo que sigue un usuario Organizer en la aplicación web, desde registrarse en la aplicación hasta crear un evento y ver la lista de asistentes.
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.030.png)
+
+<https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c231_upc_edu_pe/ET8AQ8x-WbhBvmFZhICkw_oBC5gKTukWq7QppbXCRsUkjg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=cDikNM> 
+
+
+
+**Mobile Application**
+
+![Interfaz de usuario gráfica, Aplicación
+Descripción generada automáticamente](Aspose.Words.79421ec6-c024-49b9-9d9f-df3b5a05d118.031.png)
+
+En este video se explica el flujo principal (core) de la aplicación móvil para un usuario Atendee.
+
+[App Mobile.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c231_upc_edu_pe/ETrYXi00RQVDo6Bt7nH3PYQBrP_wBhOFH8ynOQKUqW3qwg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XQdFuB)
+
+
+Link de los prototipos: [upc-pre-202401-si572-sw71-Cracketless-prototype-navigation-sprint-1.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c231_upc_edu_pe/EY6-oNjnOJVOtuwQKU_0DYsBR1Fd-uSneIBrbGalo2lzcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SDyH0I)
+
+
