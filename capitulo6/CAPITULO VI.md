@@ -1,3 +1,21 @@
+# Índice
+- [CAPITULO VI: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT](#capitulo-vi-product-implementation-validation--deployment)
+  - [6.1. Software Configuration Management](#61-software-configuration-management)
+    - [6.1.1. Software Development Enviorement Configuration](#611-software-development-enviorement-configuration)
+    - [6.1.2. Source Code Management](#612-source-code-management)
+    - [6.1.3. Source Code Style & Conventions](#613-source-code-style-guide--conventions)
+    - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
+  - [6.2. Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation)
+    - [6.2.1. Sprint 1]()
+    - [6.2.2. Sprint 2]()
+    - [6.2.3. Sprint 3]()
+  - [6.3. Validation Interviews]()
+    - [6.3.1. Diseño de Entrevistas]()
+    - [6.3.2. Registro de Entrevistas]()
+    - [6.3.3. Evaluaciones según heurísticas]()
+  - [6.4. Video About-the-Product]()
+
+
 # CAPITULO VI: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 
 ## 6.1. Software Configuration Management
@@ -98,8 +116,7 @@ Utilizamos GitHub como plataforma y sistema de control de versiones.
 
 Para la implementación del flujo de trabajo Gitflow, usando la herramienta de control de versiones Git, se usó de referencia la entrada de blog “A successful Git branching model” de Vincent Driessen, que nos ayudó a detallar las siguientes convenciones que se usarán en el proyecto:
 
-![Imagen que contiene pequeño, colgando, alambre, verde
-Descripción generada automáticamente](Aspose.Words.89381664-fd92-4088-845b-626cbcd03fbf.001.png)
+![Imagen que contiene pequeño, colgando, alambre, verde Descripción generada automáticamente](Aspose.Words.89381664-fd92-4088-845b-626cbcd03fbf.001.png)
 
 
 **Master Branch**
@@ -197,7 +214,7 @@ Se debe seguir la siguiente estructura para un commit:
 [optional scope]: el optional scope se utilizará para solo en las ramas release, hotfix y master para indicar la versión del producto.
 
 
-### [6.1.3. Source Code Style Guide & Conventions]()
+### [6.1.3. Source Code Style Guide & Conventions](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/Source%20Code%20Conventions.md)
 
 ### 6.1.4. Software Deployment Configuration
 
@@ -311,9 +328,13 @@ Una vez cargada la aplicación nos genera los links donde podremos visualizar nu
 
 ![Captura de pantalla de computadora Descripción generada automáticamente](Aspose.Words.89381664-fd92-4088-845b-626cbcd03fbf.023.png)
 
+## 6.2. Landing Page, Services & Applications Implementation
+### [6.2.1. Sprint 1]()
+### [6.2.2. Sprint 2]()
+### [6.2.3. Sprint 3]()
 
 
-
-
+## 6.3. Validation Interviews
+## 6.4. Video About-the-Product
 
 
