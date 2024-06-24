@@ -235,7 +235,9 @@ Para el primer prototipo de nuestra solucion IoT es un simulador que simula los 
 Además, existe 2 luces led una verde y otra roja, las cuales representan si las lecturas son estables parpadeara la luz verde y si en lo contrario las lecturas fueran anómalas el rojo cumple esa función simulando una alerta.
 
 ![Interfaz de usuario gráfica
-Descripción generada automáticamente](Aspose.Words.438065c7-5f91-43e5-b434-e61d1f79994b.018.png)A nuestro proyecto le pasamos el enddpoint de nuestro backend el cual va a recibir los datos de nuestro sistema.
+Descripción generada automáticamente](Aspose.Words.438065c7-5f91-43e5-b434-e61d1f79994b.018.png)
+
+A nuestro proyecto le pasamos el enddpoint de nuestro backend el cual va a recibir los datos de nuestro sistema.
 
 Link del proyecto wokwi: <https://wokwi.com/projects/399946027378018305>
 
