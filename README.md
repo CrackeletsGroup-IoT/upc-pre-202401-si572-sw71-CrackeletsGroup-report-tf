@@ -1,8 +1,6 @@
 # Carátula
 ## Universidad Peruana de Ciencias Aplicadas
-
 ![](Aspose.Words.518e5287-0f4e-4a66-aa2d-f70d5301e408.002.png)
-
 ### Ingeniería de Software
 ### Curso: Desarrollo de soluciones IoT
 ### Sección: SW71
