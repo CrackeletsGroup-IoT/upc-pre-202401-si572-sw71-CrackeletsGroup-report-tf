@@ -6,9 +6,8 @@
     - [6.1.3. Source Code Style & Conventions](#613-source-code-style-guide--conventions)
     - [6.1.4. Software Deployment Configuration](#614-software-deployment-configuration)
   - [6.2. Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation)
-    - [6.2.1. Sprint 1]()
-    - [6.2.2. Sprint 2]()
-    - [6.2.3. Sprint 3]()
+    - [6.2.1. Sprint 1](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint1/Sprint%201.md)
+    - [6.2.2. Sprint 2](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint2/Sprint%202.md)
   - [6.3. Validation Interviews]()
     - [6.3.1. Diseño de Entrevistas]()
     - [6.3.2. Registro de Entrevistas]()
@@ -329,10 +328,8 @@ Una vez cargada la aplicación nos genera los links donde podremos visualizar nu
 ![Captura de pantalla de computadora Descripción generada automáticamente](Aspose.Words.89381664-fd92-4088-845b-626cbcd03fbf.023.png)
 
 ## 6.2. Landing Page, Services & Applications Implementation
-### [6.2.1. Sprint 1]()
-### [6.2.2. Sprint 2]()
-### [6.2.3. Sprint 3]()
-
+### [6.2.1. Sprint 1](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint1/Sprint%201.md)
+### [6.2.2. Sprint 2](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint2/Sprint%202.md)
 
 ## 6.3. Validation Interviews
 ## 6.4. Video About-the-Product
