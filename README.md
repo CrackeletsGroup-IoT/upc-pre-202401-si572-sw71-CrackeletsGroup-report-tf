@@ -214,6 +214,19 @@ Se recomienda mantener siempre una comunicación fluida con los usuarios que uti
 
 
 ## Video About-the-Team
+En este video se resume el proceso del trabajo en equipo para el elaborar el proyecto a lo largo del ciclo. Se incluye una explicación de las evidencias y herramientas de colaboración, que en nuestro caso fueron GitHub, Trello, WhatsApp y Google Meet. Además, se incluye el testimonio ante cámara de cada participante describiendo actividades realizadas, logro de outcomes y desarrollo de competencias alcanzadas con respecto al trabajo final, el conocimiento de las soluciones IoT y el trabajo en equipo multidisciplinario.  Cabe recalcar que en este curso se alcanzó el Student Outcome 5 de ABET.
+
+![image](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/assets/102206366/028510c1-4b44-49ea-ad9c-ff74df357176)
+
+**Secciones:**
+- Introducción: 00:00:00 – 00:00:22
+- Testimonios: 00:00:23 – 00:10:02
+- Evidencias de colaboración: 00:10:03 – 00:11:55
+
+URL de Microsoft Stream: [upc-pre-202401-si752-sw71-crackelest-about-the-team-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c231_upc_edu_pe/EcC_HDcMLs1LrwYU1gWi9D8BTKBpHxLlEcqaK9UCuDENqg?e=IEXMLK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+URL de YouTube: https://youtu.be/MbpvuZPvLQE (utilizada para incrustarse en el Landing Page)
+
 
 # Bibliografía
  
@@ -227,7 +240,6 @@ Se recomienda mantener siempre una comunicación fluida con los usuarios que uti
   
   GitHub. (s.f.). Recuperado de https://github.com [Consulta: 20 de abril de 2023].
 
-  
   AGUIRRE, Erwin R. 1; FERRER, María de los Á. 2; BUSTOS, Boris A. 3 & MÉNDEZ, Ronald E. 4. (febrero, 2020) UX Desing: una metodología para el diseño de proyectos digitales eficientes centrados en los usuarios. Recuperado de a20v41n05p09.pdf (revistaespacios.com) [Consulta: 20 de noviembre de 2023]
   
   Information Systems Research. (2023). The Impact of Online Event Ticketing on Consumer Behavior, 34(1), 1-20. Recuperado de https://www.scimagojr.com/journalsearch.php?q=15574&tip=sid&clean=0   [Consulta: 30 de agosto de 2023]
@@ -271,6 +283,13 @@ Se recomienda mantener siempre una comunicación fluida con los usuarios que uti
 - Enlace 9: Video de exposición del trabajo parcial
   https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181e187_upc_edu_pe/EQFtzTj3sZpBn44lLv8axgoBRtJ_3Wf1ndviKcDMGrlaug?e=C9NFwB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-- Entrevistas de validacion
-- About the product
-- Enlace: Video de exposición del trabajo final
+- Enlace 10: Entrevistas de validación
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c242_upc_edu_pe/EfiwbJoJ3yxEk5vfWzIg8IYBEvszsBxObs6JvfYxgu_KAQ?e=NzkzAA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+  
+- Enlace 11: Video About-The-Product
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181e187_upc_edu_pe/EQ8UmEptwCdGl3QfT6-MZoIBIZyJGC9juSkZJNF_0skM4Q?e=QeSNww 
+  
+- Enlace 12: Video About-The-Team
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c231_upc_edu_pe/EcC_HDcMLs1LrwYU1gWi9D8BTKBpHxLlEcqaK9UCuDENqg?e=IEXMLK&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
+- Enlace 13: Video de exposición del trabajo final
