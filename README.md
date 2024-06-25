@@ -240,19 +240,19 @@ URL de YouTube: https://youtu.be/MbpvuZPvLQE (utilizada para incrustarse en el L
   
   GitHub. (s.f.). Recuperado de https://github.com [Consulta: 20 de abril de 2023].
 
-  AGUIRRE, Erwin R. 1; FERRER, María de los Á. 2; BUSTOS, Boris A. 3 & MÉNDEZ, Ronald E. 4. (febrero, 2020) UX Desing: una metodología para el diseño de proyectos digitales eficientes centrados en los usuarios. Recuperado de a20v41n05p09.pdf (revistaespacios.com) [Consulta: 20 de noviembre de 2023]
+  AGUIRRE, Erwin R. 1; FERRER, María de los Á. 2; BUSTOS, Boris A. 3 & MÉNDEZ, Ronald E. 4. (febrero, 2020) UX Desing: una metodología para el diseño de proyectos digitales eficientes centrados en los usuarios. Recuperado de [a20v41n05p09.pdf](revistaespacios.com) revistaespacios.com [Consulta: 20 de noviembre de 2023].
   
-  Information Systems Research. (2023). The Impact of Online Event Ticketing on Consumer Behavior, 34(1), 1-20. Recuperado de https://www.scimagojr.com/journalsearch.php?q=15574&tip=sid&clean=0   [Consulta: 30 de agosto de 2023]
+  Information Systems Research. (2023). The Impact of Online Event Ticketing on Consumer Behavior, 34(1), 1-20. Recuperado de https://www.scimagojr.com/journalsearch.php?q=15574&tip=sid&clean=0   [Consulta: 30 de agosto de 2023].
   
-  Instituto Nacional de Estadística e Informática. (septiembre, 2020). Patrimonio, bienes y servicios culturales 2016-2019 . Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1755/libro.pdf [Consulta: 20 de noviembre de 2023]
+  Instituto Nacional de Estadística e Informática. (septiembre, 2020). Patrimonio, bienes y servicios culturales 2016-2019 . Recuperado de https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1755/libro.pdf [Consulta: 20 de noviembre de 2023].
   
-  MIS Quarterly. (2022). A Framework for Designing Effective Event Ticketing Platforms, 46(1), 1-24. Recuperado de https://www.scimagojr.com/journalsearch.php?q=12402&tip=sid&clean=0  [Consulta: 28 de agosto de 2023]
+  MIS Quarterly. (2022). A Framework for Designing Effective Event Ticketing Platforms, 46(1), 1-24. Recuperado de https://www.scimagojr.com/journalsearch.php?q=12402&tip=sid&clean=0  [Consulta: 28 de agosto de 2023].
 
-  Qualtrics. (30/08/2023). Análisis del público objetivo. Recuperado de https://www.qualtrics.com/es/gestion-de-la-experiencia/investigacion/analisis-del-publico-objetivo/  [Consulta: 29 de agosto de 2023]
+  Qualtrics. (30/08/2023). Análisis del público objetivo. Recuperado de https://www.qualtrics.com/es/gestion-de-la-experiencia/investigacion/analisis-del-publico-objetivo/  [Consulta: 29 de agosto de 2023].
 
-  Rodriguez Bedoya, I. D. (2022). Beneficios de business intelligence en la startup peruana Joinnus SAC al año 2020. Recuperado de https://repositorio.upn.edu.pe/handle/11537/33088 [Consulta: 29 de agosto de 2023]
+  Rodriguez Bedoya, I. D. (2022). Beneficios de business intelligence en la startup peruana Joinnus SAC al año 2020. Recuperado de https://repositorio.upn.edu.pe/handle/11537/33088 [Consulta: 29 de agosto de 2023].
 
-  Zeta, P., & Anderson, B. (2022). Diseño UX como herramienta metodológica para el desarrollo de un aplicativo móvil para Teleticket región Lima. Recuperado de https://repositorio.isil.pe/handle/123456789/368 [Consulta: 30 de agosto de 2023]
+  Zeta, P., & Anderson, B. (2022). Diseño UX como herramienta metodológica para el desarrollo de un aplicativo móvil para Teleticket región Lima. Recuperado de https://repositorio.isil.pe/handle/123456789/368 [Consulta: 30 de agosto de 2023].
 
 
 # Anexos
