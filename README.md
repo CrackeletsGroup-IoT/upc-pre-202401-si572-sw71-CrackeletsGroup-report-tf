@@ -35,6 +35,18 @@
 |4\.0|08/06/24|<p>Ayasta Leonardo, Valery Ruth</p><p>Huillca Mateos, Fabricio Raúl</p><p>Riega Ocharan, William Martín</p><p>Pozo Campos, Rodrigo Jair</p><p>Soriano Huapaya, Isabella María</p>|Sprint 2, documentación de cambios en el informe sobre mejora de la aplicación web, mobile , back-end e integración de dispositivo IoT|
 
 # Project Report Collaboration Insights
+URL del repositorio del Report: https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf
+
+Para la entrega final se convirtió el reporte de Word a uno en formato Markdown.
+
+Analíticos de colaboración y commits en GitHub:
+
+![image](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/assets/102206366/5cdc12b5-1081-4487-bc33-9533cbb12985)
+
+![image](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/assets/102206366/a1e46e13-9112-4e3d-af10-7182db92cbc8)
+
+![image](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/assets/102206366/3240a2de-e3fe-4de5-a3fd-66667bc0c750)
+
 
 
 # Contenido
