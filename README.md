@@ -117,9 +117,14 @@ del ABET – EAC - Student Outcome 5.*
       <p>Para esta entrega apoye con la creación de nuestro sistema en Wokwi y la conexión de esta con nuestro backend y el guardado de los datos en nuestra base de datos</p>
     </td>
     <td>
+      <p>TB1</p>
       <p>Se redactó los capítulos 1,2,3 y 4 en coordinación y comunicación constante del equipo, se planificaron los alcances y se logró la primera parte de una solución de ingeniería de software.</p>
+      <p>TP</p>
       <p>Se redactó los capítulos 5 y 6 en coordinación y comunicación constante del equipo, se planificaron los alcances y se logró el desarrollo de una aplicación web y móvil, así como la propuesta para la solución IoT.</p>
+      <p>TB2</p>
       <p>Se realizó la conexión de la solución IoT con el del backend para mostrar los resultados en la app móvil. Además, se desplegó el servidor web y la aplicación web frontend.</p>
+      <p>TF</p>
+      <p>Se concluyo el trabajo con un sprint 3, ademas se planifico las mejoras de los productos creados y se organizo el proceso para obtener entrevistas de validacion </p>
     </td>
   </tr>
   <tr>
