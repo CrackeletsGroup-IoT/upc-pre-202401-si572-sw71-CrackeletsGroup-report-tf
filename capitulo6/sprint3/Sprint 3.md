@@ -1,3 +1,15 @@
+### Índice
+- [6.2.3. Sprint 3](#623-sprint-3)
+  - [6.2.3.1. Sprint Planning 3](#6231-sprint-planning-3)
+  - [6.2.3.2. Sprint Backlog 3](#6232-sprint-backlog-3)
+  - [6.2.3.3. Development Evidence for Sprint Review](#6233-development-evidence-for-sprint-review)
+  - [6.2.3.4. Testing Suite Evidence for Sprint Review](#6234-testing-suite-evidence-for-sprint-review)
+  - [6.2.3.5. Execution Evidence for Sprint Review](#6235-execution-evidence-for-sprint-review)
+  - [6.2.3.6. Services Documentation Evidence for Sprint Review](#6236-services-documentation-evidence-for-sprint-review)
+  - [6.2.3.7. Software Deployment Evidence for Sprint Review](#6237-software-deployment-evidence-for-sprint-review)
+  - [6.2.3.8. Team Collaboration Insights during Sprint](#6238-team-collaboration-insights-during-sprint)
+
+
 ### 6.2.3. Sprint 3
 
 Este sprint se centró en las mejoras finales del proyecto en todas las aplicaciones y completar las User Stories del Product Backlog.
@@ -19,7 +31,7 @@ Este sprint se centró en las mejoras finales del proyecto en todas las aplicaci
 |Sprint 3 Velocity|21|
 |Sum of Story Points|21|
 
-Sprint Backlog 3
+#### 6.2.3.2. Sprint Backlog 3
 
 <table><tr><th valign="top"><b>Sprint #</b></th><th colspan="7" valign="top"><b>Sprint 3</b></th></tr>
 <tr><td colspan="2" valign="top"><b>User Story</b></td><td colspan="6" valign="top">Work-item / Task</td></tr>
@@ -35,7 +47,7 @@ Sprint Backlog 3
 <tr><td valign="top"></td><td valign="top"></td><td valign="top">TK09</td><td valign="top">Documentar las entrevistas de validación</td><td valign="top">Registrar un resumen de las entrevistas</td><td valign="top">3 horas</td><td valign="top">Isabella</td><td valign="top">Done</td></tr>
 </table>
 
-#### 6.2.3.2. Development Evidence for Sprint Review
+#### 6.2.3.3. Development Evidence for Sprint Review
 
 En esta sección mostramos los commits realizados en los repositorios de nuestro proyecto.
 
