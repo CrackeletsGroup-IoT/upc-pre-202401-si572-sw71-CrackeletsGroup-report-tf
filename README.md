@@ -144,6 +144,8 @@ del ABET – EAC - Student Outcome 5.*
       <p>Realice la propuesta para la solución IoT en Wokwi en base a los requisitos funcionales del proyecto.</p>
       <p>TB2</p>
       <p>Realice el seguimiento de la implementación para el sprint 2.</p>
+      <p>TF</p>
+      <p>Me encargue de desarrollar las entrevistas de validacion con personas que cumplen nuestro segmentos objetivo, ademas al registrarlas respuesta obtenidas es posible mejorar nuestros productos. </p>
       <p><strong>William Martin Riega Ocharan</strong></p>
       <p>TB1</p>
       <p>Profundicé en las reglas de negocio de la solución y expliqué el funcionamiento de cada nivel en dos de los bounded context.</p>
