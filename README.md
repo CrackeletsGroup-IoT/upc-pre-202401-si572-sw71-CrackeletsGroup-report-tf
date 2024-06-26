@@ -278,7 +278,7 @@ Zeta, P., & Anderson, B. (2022). Diseño UX como herramienta metodológica para 
   https://miro.com/app/board/uXjVKXA46xc=/?share_link_id=35955665241
    
 - Enlace 8: Applications Prototyping
-  upc-pre-202401-si572-sw71-Cracketless-prototype-navigation-sprint-1.mp4
+  https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c231_upc_edu_pe/EY6-oNjnOJVOtuwQKU_0DYsBR1Fd-uSneIBrbGalo2lzcQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SDyH0I 
 
 - Enlace 9: Video de exposición del trabajo parcial
   https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181e187_upc_edu_pe/EQFtzTj3sZpBn44lLv8axgoBRtJ_3Wf1ndviKcDMGrlaug?e=C9NFwB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
