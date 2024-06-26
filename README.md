@@ -92,6 +92,8 @@ del ABET – EAC - Student Outcome 5.*
       <p>Realice la propuesta para la solución IoT en Wokwi</p>
       <p>TB2</p>
       <p>Redacte el sprint 2 correspondiente a la integración de una solución IoT en un proyecto de software</p>
+      <p>TF</p>
+      <p>Me encargue de organizar las entrevistas con personas que cumplen nuestro segmentos objetivo para validar nuestros productos</p>
       <p><strong>William Martin Riega Ocharan</strong></p>
       <p>TB1</p>
       <p>Desarrollé los niveles estratégicos DDD de los bounded context de Profile y Security.</p>
