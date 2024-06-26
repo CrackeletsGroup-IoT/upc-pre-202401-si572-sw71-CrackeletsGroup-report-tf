@@ -8,6 +8,7 @@
   - [6.2. Landing Page, Services & Applications Implementation](#62-landing-page-services--applications-implementation)
     - [6.2.1. Sprint 1](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint1/Sprint%201.md)
     - [6.2.2. Sprint 2](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint2/Sprint%202.md)
+    - [6.2.3. Sprint 3](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint3/Sprint%203.md#6233-development-evidence-for-sprint-review)
   - [6.3. Validation Interviews]()
     - [6.3.1. Diseño de Entrevistas]()
     - [6.3.2. Registro de Entrevistas]()
@@ -330,8 +331,17 @@ Una vez cargada la aplicación nos genera los links donde podremos visualizar nu
 ## 6.2. Landing Page, Services & Applications Implementation
 ### [6.2.1. Sprint 1](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint1/Sprint%201.md)
 ### [6.2.2. Sprint 2](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint2/Sprint%202.md)
+### [6.2.3. Sprint 3](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint3/Sprint%203.md#6233-development-evidence-for-sprint-review)
 
 ## 6.3. Validation Interviews
 ## 6.4. Video About-the-Product
+
+Video acerca de la funcionalidad del proyecto en conjunto mencionando sus principales características, así como las funcionalidades que emplea cada segmento objetivo:
+
+![image](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/assets/102206366/5d6b4522-b810-4a14-9795-486a408945d6)
+
+Link: [upc-pre-202401-si572-SW71-CrackelestGroup-about- the-product-sprint-3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20181e187_upc_edu_pe/EQ8UmEptwCdGl3QfT6-MZoIBIZyJGC9juSkZJNF_0skM4Q?e=QeSNww)
+
+
 
 
