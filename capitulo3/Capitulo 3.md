@@ -111,10 +111,10 @@ Se realizo el Product Backlog para elaborar un listado de orden de prioridad de 
 |20|US02 |Conocer a qué tipo de usuario satisfacen |**Como** “visitante” **quiero** conocer a qué tipo de usuarios satisface esta aplicación **para** decidir obtenerla o no|3|
 |21|US08 |Conocer más información del startup |**Como** visitante **quiero** conocer quiénes son los creadores de la aplicación y que ofrecen con la misma **para** advertir los beneficios que me pueden brindar con su uso|3|
 |22|TS01 |Acceder a EndPoints |Como developer quiero acceder a endpoints para interactuar con la aplicación  |8|
-|23|TS02 |Registrar asistentes |**Como** Developer **quiero** contar con un endpoint **para** registrar asistentes a eventos**  |8|
-|24|TS03 |Registrar organizadores |**Como** developer **quiero** contar con un endpoint **para** registrar a los organizadores de eventos**  |8|
-|25|TS04 |Registrar Pago |**Como** developer **quiero** contar con un endpoint **para** registrar los pagos realizados de los eventos**  |8|
-|26|TS05 |Registrar eventos |**Como** developer **quiero** contar con un endpoint **para** registrar los eventos**  |8|
+|23|TS02 |Registrar asistentes |**Como** Developer **quiero** contar con un endpoint **para** registrar asistentes a **eventos**  |8|
+|24|TS03 |Registrar organizadores |**Como** developer **quiero** contar con un endpoint **para** registrar a los organizadores de **eventos**  |8|
+|25|TS04 |Registrar Pago |**Como** developer **quiero** contar con un endpoint **para** registrar los pagos realizados de los **eventos**  |8|
+|26|TS05 |Registrar eventos |**Como** developer **quiero** contar con un endpoint **para** registrar los **eventos**  |8|
 |27|TS06 |Creación de persistencia de la entidad Organizer |Como developer necesito hacer persistir los datos de la entidad Organizer  |8|
 |28|TS07 |Creación de persistencia de la entidad Attendee |Como developer necesito hacer persistir los datos de la entidad Attendee  |8|
 |29|TS08 |Creación de persistencia de la entidad Payment |Como developer necesito hacer persistir los datos de la entidad Payment  |8|
