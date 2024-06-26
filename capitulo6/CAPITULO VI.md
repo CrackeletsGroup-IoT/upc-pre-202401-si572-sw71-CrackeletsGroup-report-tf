@@ -330,7 +330,7 @@ Una vez cargada la aplicación nos genera los links donde podremos visualizar nu
 ### [6.2.2. Sprint 2](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint2/Sprint%202.md)
 ### [6.2.3. Sprint 3](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/capitulo6/sprint3/Sprint%203.md#6233-development-evidence-for-sprint-review)
 
-## [6.3. Validation Interviews]()
+## [6.3. Validation Interviews](https://github.com/CrackeletsGroup-IoT/upc-pre-202401-si572-sw71-CrackeletsGroup-report-tf/blob/capitulo6/interviews/Validation%20Interviews.md)
 ## 6.4. Video About-the-Product
 
 Video acerca de la funcionalidad del proyecto en conjunto mencionando sus principales características, así como las funcionalidades que emplea cada segmento objetivo:
